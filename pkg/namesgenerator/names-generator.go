@@ -185,6 +185,9 @@ var (
 
 		// Emmett Brown invented time travel. https://en.wikipedia.org/wiki/Emmett_Brown (thanks Brian Goff)
 		"brown",
+		
+		// Michael J. Burry, one of the first people to predict the economic collapse of 2008
+		"burry",
 
 		// Rachel Carson - American marine biologist and conservationist, her book Silent Spring and other writings are credited with advancing the global environmental movement. https://en.wikipedia.org/wiki/Rachel_Carson
 		"carson",
@@ -430,7 +433,10 @@ var (
 
 		// Ian Murdock - founder of the Debian project - https://en.wikipedia.org/wiki/Ian_Murdock
 		"murdock",
-
+		
+		// John Forbes Nash Jr. - made fundamental contributions to game theory, differential geometry, and the study of partial differential equations
+		"nash",
+		
 		// John von Neumann - todays computer architectures are based on the von Neumann architecture. https://en.wikipedia.org/wiki/Von_Neumann_architecture
 		"neumann",
 
